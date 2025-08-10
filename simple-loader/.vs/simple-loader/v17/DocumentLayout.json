@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\flarevm\\Desktop\\RE-DLL\\simple-loader\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97C26DE6-19A0-4AD6-B8D9-79C670BE55B1}|simple-loader.vcxproj|C:\\Users\\flarevm\\Desktop\\RE-DLL\\simple-loader\\simple-loader.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{97C26DE6-19A0-4AD6-B8D9-79C670BE55B1}|simple-loader.vcxproj|solutionrelative:simple-loader.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "simple-loader.c",
+              "DocumentMoniker": "C:\\Users\\flarevm\\Desktop\\RE-DLL\\simple-loader\\simple-loader.c",
+              "RelativeDocumentMoniker": "simple-loader.c",
+              "ToolTip": "C:\\Users\\flarevm\\Desktop\\RE-DLL\\simple-loader\\simple-loader.c*",
+              "RelativeToolTip": "simple-loader.c*",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-10T00:02:02.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
