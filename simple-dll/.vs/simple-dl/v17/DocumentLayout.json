@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\flarevm\\Desktop\\RE-DLL\\simple-dl\\",
+  "WorkspaceRootPath": "Z:\\simple-dll\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3D7DDBFB-B84A-47CF-8F52-BFBA42312967}|simple-dl.vcxproj|C:\\Users\\flarevm\\Desktop\\RE-DLL\\simple-dl\\dll.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{3D7DDBFB-B84A-47CF-8F52-BFBA42312967}|simple-dl.vcxproj|Z:\\simple-dll\\dll.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3D7DDBFB-B84A-47CF-8F52-BFBA42312967}|simple-dl.vcxproj|solutionrelative:dll.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -14,24 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "dll.c",
-              "DocumentMoniker": "C:\\Users\\flarevm\\Desktop\\RE-DLL\\simple-dl\\dll.c",
+              "DocumentMoniker": "Z:\\simple-dll\\dll.c",
               "RelativeDocumentMoniker": "dll.c",
-              "ToolTip": "C:\\Users\\flarevm\\Desktop\\RE-DLL\\simple-dl\\dll.c",
+              "ToolTip": "Z:\\simple-dll\\dll.c",
               "RelativeToolTip": "dll.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-09T23:39:28.089Z",
+              "WhenOpened": "2025-08-12T09:22:42.453Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
