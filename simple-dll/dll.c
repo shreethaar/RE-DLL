@@ -5,16 +5,16 @@ __declspec(dllexport) int add(int a, int b) {
     return a + b;
 }
 
-__declspec(dllexport) char* getString() {
-    static char buffer[] = "Hello from DLL";
-    return buffer;
-}
-
 __declspec(dllexport) void processData(char* input, int length) {
     for (int i = 0; i < length; i++) {
         input[i] ^= 0x6F;
     }
 }
+
+__declspec(dllexport) void CALLBACK getString(HWND hwnd, HINSTANCE hinst, LPSTR cmdLine, int nCmdShow) {
+    MessageBoxA(hwnd, "Hello from DLL", "getString()", MB_OK | MB_ICONINFORMATION);
+}
+
 
 BOOL WINAPI DllMain(HINSTANCE hinstDLL, DWORD fdwReason, LPVOID lpvReserved) {
     switch (fdwReason) {        // perform actions based on the reason of calling 
